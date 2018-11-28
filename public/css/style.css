@@ -1,0 +1,149 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    background: #EAEBEC;
+    margin:0px;
+}
+.page__header{
+    background: #425062;
+    color:white;
+}
+.main-title {
+    margin:0px 0px 30px 0px;
+    text-align: center;
+}
+.cart-icon{
+    background-image: url("/img/cart.png");
+    height: 40px;
+    width: 40px;
+    display: block;
+    right:20px;
+    position: absolute;
+    margin-right: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+.cart-icon__counter{
+    cursor: pointer;
+    background: #D95D4E;
+    color: white;
+    border-radius: 50%;
+    width: 8px;
+    font-size: 11px;
+    height: 8px;
+    padding: 4px 7px 11px 6px;
+    position: absolute;
+    text-align: center;
+
+}
+.wrapper {
+    width: 800px;
+    margin: auto;
+}
+.wrapper:after{
+    clear: both;
+    content: "";
+    display: block;
+}
+.product-item{
+    width:30%;
+    float:left;
+    margin:0.5%;
+    background: white;
+    padding:1%;
+    border-radius:5px;
+}
+.product-item__picture{
+    height:120px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 2px;
+}
+.product-item__description{
+    font-size: 12px;
+    color:#999;
+    height:20px;
+}
+.product-item__name {
+    border-top:1px solid #ddd;
+    padding-top: 5px;
+    font-size: 15px;
+    height:30px;
+    text-align: left;
+    color:#666666;
+}
+.product-item__stock{
+    font-size: 12px;
+    color:#777;
+}
+.product-item__price{
+    font-size: 15px;
+    color:#333;
+}
+.product-item__button {
+    background: #425062;
+    color:white;
+    float:right;
+    font-size: 12px;
+    padding:4px 9px;
+    border-radius:5px;
+}
+.cart-container{
+    width:400px;
+    position: absolute;
+    right:10px;
+    top:39px;
+    padding:5px;
+    border:1px solid #425062;
+    background: #425062;
+    display: none;
+}
+.cart-item{
+    border:1px solid #425062;
+    background: white;
+    padding: 5px;
+}
+.cart-item__picture {
+    width:20%;
+    float: left;
+    text-align: center;
+}
+.cart-item__img{
+    height:70px;
+}
+.cart-item__info {
+    width:75%;
+    margin-left: 5%;
+    float: left;
+    font-size: 13px;
+    color:#555;
+}
+.cart-item__price{
+    color:#333;
+    font-size: 14px;
+}
+.cart-item__name{
+    margin: 0px;
+    color:#333;
+    font-size: 15px;
+}
+.cart-item:after{
+    clear: both;
+    content:" ";
+    display:block;
+}
+.cart-total{
+    margin-top: 10px;
+    text-align: right;
+    font-size: 15px;
+    color:white;
+}
+.cart-item__gotocart{
+    background: #00B1AF;
+    border: 1px solid #2ba3b1;
+    color:white;
+    padding: 5px;
+    border-radius:5px ;
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "5bfd41fc7315165a3f7afcfd",
+    "index": 0,
+    "price": "121.76",
+    "name": "Frontline Plus for Cats",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/61uqukbbb0L._AC_US320_QL65_.jpg",
+    "stock": 35,
+    "about": "Aute officia eiusmod tempor eiusmod elit.",
+    "created_at": "2017-08-20T08:49:08 +04:00",
+    "tags": [
+      "cat",
+      "medical"
+    ]
+  },
+  {
+    "_id": "5bfd41fcdcf97a937727b6d4",
+    "index": 1,
+    "price": "256.36",
+    "name": "Nutramax Cosequin Capsules",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/51H0UmH9K0L._AC_US320_QL65_.jpg",
+    "stock": 20,
+    "about": "Consectetur mollit qui cillum laboris laboris fugiat dolore",
+    "created_at": "2018-06-25T02:10:37 +04:00",
+    "tags": [
+      "cat",
+      "medical"
+    ]
+  },
+  {
+    "_id": "5bfd41fcc6aa7cf8d204be4b",
+    "index": 2,
+    "price": "336.50",
+    "name": "Youngever 24 Cat Toys Kitten Toys Assortments",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/517SrZ2OvuL._AC_US160_.jpg",
+    "stock": 39,
+    "about": "Nulla ipsum qui adipisicing Lorem ex dolor nisi.",
+    "created_at": "2018-05-02T05:13:05 +04:00",
+    "tags": [
+      "cat",
+      "toy"
+    ]
+  },
+  {
+    "_id": "5bfd41fcc9fefe69a04423a9",
+    "index": 3,
+    "price": "193.60",
+    "name": "Hill'S Science Diet Adult Urinary ",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/414T0O3YfdL._AC_US320_QL65_.jpg",
+    "stock": 38,
+    "about": "Eiusmod pariatur incididunt esse voluptate non laborum ea qui.",
+    "created_at": "2017-10-09T12:30:38 +04:00",
+    "tags": [
+      "cat",
+      "food"
+    ]
+  },
+  {
+    "_id": "5bfd41fc215ec4237efacc5d",
+    "index": 4,
+    "price": "324.06",
+    "name": "Fling-Ama-String Cat Toy",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/41PgLRJafHL._AC_US160_.jpg",
+    "stock": 38,
+    "about": "Amet officia in officia nisi duis mollit excepteur nulla dolor.",
+    "created_at": "2014-06-16T02:04:31 +04:00",
+    "tags": [
+      "cat",
+      "toy"
+    ]
+  },
+  {
+    "_id": "5bfd41fc737e0399a43211c3",
+    "index": 5,
+    "price": "203.16",
+    "name": "IPRIMIO Cat Litter Scooper",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/51WJC6XkPoL._AC_US160_.jpg",
+    "stock": 24,
+    "about": "Eiusmod mollit veniam do sit ex mollit sint adipisicing enim labore.",
+    "created_at": "2015-11-28T04:22:34 +04:00",
+    "tags": [
+      "cat",
+      "tool"
+    ]
+  }
+]
